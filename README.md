@@ -1,8 +1,8 @@
 # Desafío
 
 El objetivo de este desafío es hacer TDD (Test Driven Development) y guiarse con los tests
-para que funcione el resto del código. Para esto tienen que leet los test y
-procurar que las clases 'User' y 'Producto' funcionen junto con todos sus métodos
+para que funcione el resto del código. Para esto tienen que leer los test y
+procurar que las clases 'User' y 'Product' funcionen junto con todos sus métodos
 
 # Código
 
